@@ -1,5 +1,6 @@
 **2024 Election Dataset Analysis**
-Objective:
+
+###**Objective**###:
 The aim of this Power BI project is to provide a comprehensive analysis of the 2024 election data. This includes exploring voter demographics, turnout rates, voting patterns, and election results across different regions. The goal is to gain insights into the electoral process and understand the factors influencing the election outcomes.
 
 Conclusion:
